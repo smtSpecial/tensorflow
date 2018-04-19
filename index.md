@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Tensorflow 설치 (ubuntu)
+
+1. jupyter notebook 설치
+2. tensorflow org에 써 있는대로 tensorflow를 https://www.tensorflow.org/install/install_linux)
+   - $ sudo apt-get install cuda-command-line-tools 이라 써 있지만 package not found가 나온다. 인터넷을 뒤져보 sudo apt install cuda-command-line-tools-9-1" 을 사용. 
+
 
 You can use the [editor on GitHub](https://github.com/smtSpecial/tensorflow/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
